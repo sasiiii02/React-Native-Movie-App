@@ -8,5 +8,5 @@ const profile = () => {
     </View>
   )
 }
-
+//complete all
 export default profile

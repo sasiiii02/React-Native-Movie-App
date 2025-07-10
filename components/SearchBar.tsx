@@ -6,6 +6,7 @@ interface Props{
     placeholder :string;
     onPress?:()=>void;
 }
+//to be completed within a week
 
 const SearchBar = ({placeholder,onPress}:Props) => {
   
